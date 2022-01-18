@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+#
+data/
+node_modules/
+archive/
+venv/
+*.exe
+*.zip
+*.csv
+*.xls
+*.xlsx
